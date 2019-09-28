@@ -1,4 +1,4 @@
-''' REVIEW
+''' REVIEW 
 -bitwise operators
 -how to use masks and create them machine independently
 -fast ways to clear lowestmost set bit
