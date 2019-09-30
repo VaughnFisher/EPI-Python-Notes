@@ -1,4 +1,4 @@
-''' REVIEW 
+''' TIPS
 -bitwise operators
 -how to use masks and create them machine independently
 -fast ways to clear lowestmost set bit
@@ -6,6 +6,19 @@
 -consider using a cache
 -commutativity and associativity can be used to perform operations
 	in parallel and reorder operations
+'''
+
+''' REVIEW
+-bitwise operators &,|,>>,<<,~,^
+-2's complement
+-key methods for numeric types are abs(x), math.ceil(x), math.floor(x),
+	min(x,y), max(x,y), pow(x,y), and math.sqrt(x)
+-interconvert integers and strings, e.g., str(42), int('42'), floats and
+	strings, e.g., str(3.14), float('3.14')
+-refer to infinity as float('inf')
+-consider using math.isclose() when comparing floating point values
+-key methods in random are random.randrange(28), random.randint(8,16),
+	random.random(), random.shuffle(A), and random.choice(A)
 '''
 
 ### BC ###
